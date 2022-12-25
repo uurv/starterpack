@@ -1,0 +1,5 @@
+--discord.gg/boronide, 
+
+
+
+local a=loadstring(game:HttpGet("https://raw.githubusercontent.com/uurv/uurv/main/orion",true))()a:MakeNotification({Name="Rayo Premium v2 .1.9.3",Content="successful!",Image="rbxassetid://0",Time=5})
